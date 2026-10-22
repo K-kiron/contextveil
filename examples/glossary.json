@@ -1,0 +1,5 @@
+[
+  {"value": "Alice Morgan", "label": "PERSON", "canonical": "person-a"},
+  {"value": "A. Morgan", "label": "PERSON", "canonical": "person-a"},
+  {"value": "Robert Chen", "label": "PERSON", "canonical": "person-b"}
+]

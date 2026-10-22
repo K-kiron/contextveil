@@ -1,0 +1,6 @@
+include README.zh-CN.md SECURITY.md CONTRIBUTING.md
+include .gitignore .gitattributes
+recursive-include .github *.yml
+recursive-include docs *.md *.json
+recursive-include benchmarks *.py *.json
+recursive-include examples *.py *.json *.jsonl *.txt

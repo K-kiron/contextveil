@@ -1,0 +1,4 @@
+Alice Morgan paid Robert Chen $125.50 on 2026-01-12.
+Robert Chen did not refund the payment. Alice Morgan kept the receipt.
+Contact alice.morgan@example.test or +1 415-555-0138.
+The delivery weighed 5.25 kg and arrived 3 days later.

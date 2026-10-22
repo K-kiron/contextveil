@@ -1,0 +1,13 @@
+{"id":"synthetic-01","text":"Email jane.doe@example.org about the invoice.","entities":[{"start":6,"end":26,"label":"EMAIL"}]}
+{"id":"synthetic-02","text":"Call +1 416-555-0182 ext. 73 tomorrow.","entities":[{"start":5,"end":28,"label":"PHONE"}]}
+{"id":"synthetic-03","text":"The sample SSN is 123-45-6789.","entities":[{"start":18,"end":29,"label":"SSN"}]}
+{"id":"synthetic-04","text":"Use test card 4111 1111 1111 1111 for the demo.","entities":[{"start":14,"end":33,"label":"CREDIT_CARD"}]}
+{"id":"synthetic-05","text":"Server 192.0.2.4 served https://example.org/a.","entities":[{"start":7,"end":16,"label":"IP_ADDRESS"},{"start":24,"end":45,"label":"URL"}]}
+{"id":"synthetic-06","text":"Account ID: AC-2048 has 135 kWh usage at $42.30.","entities":[{"start":12,"end":19,"label":"ID"}]}
+{"id":"synthetic-07","text":"The sample API key = sk-demoab12cd34 is in the note.","entities":[{"start":21,"end":36,"label":"SECRET"}]}
+{"id":"synthetic-08","text":"Ada Lovelace visited London.","entities":[{"start":0,"end":12,"label":"PERSON"},{"start":21,"end":27,"label":"LOCATION"}]}
+{"id":"synthetic-09","text":"Acme Robotics hired Mara Chen.","entities":[{"start":0,"end":13,"label":"ORG"},{"start":20,"end":29,"label":"PERSON"}]}
+{"id":"synthetic-10","text":"Jordan sent the note to Alex.","entities":[{"start":0,"end":6,"label":"PERSON"},{"start":24,"end":28,"label":"PERSON"}]}
+{"id":"synthetic-11","text":"Revenue was $1,250 on 2026-10-22; usage was 85 kWh.","entities":[]}
+{"id":"synthetic-12","text":"Riverton Clinic opened a site in Montréal.","entities":[{"start":0,"end":15,"label":"ORG"},{"start":33,"end":41,"label":"LOCATION"}]}
+{"id":"synthetic-13","text":"Patient ID: PT-7001 belongs to Lin Wu.","entities":[{"start":12,"end":19,"label":"ID"},{"start":31,"end":37,"label":"PERSON"}]}
